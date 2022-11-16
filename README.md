@@ -1,6 +1,7 @@
 - hi, i'm @jagcore
-- if you didn't know, i am an idiot <o<
-- what a loser, only knows python
+- if you don't know, i'm pretty bad at programming <o<
+- update: i'm learning lua :D 
+- i know python pretty well (i just don't use classes too much for some reason)
 
 
 <!---
